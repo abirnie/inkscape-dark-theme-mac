@@ -25,3 +25,6 @@ I searched high and low, forums big and small, and came up empty on this. Almost
 8. Replace the icons.svg file that is currently there with the icons.svg file from your new dark theme folder that you unzipped in step 5 above (found in share/icons)
 9. Start (or restart) Inkscape. Hopefully, yours looks like the screenshot from my setup above. 
 
+
+NOTE: Inkscape actually comes with some alternative themes and you can use similar steps to implement them. The theme files can be found by viewing the applications package contents and navigating to Contents/Resources/share/themes.
+
