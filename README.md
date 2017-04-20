@@ -9,10 +9,10 @@ I searched high and low, forums big and small, and came up empty on this. Almost
 [image1]: https://github.com/abirnie/inkscape-dark-theme-mac/blob/master/inkscape-dark-theme-mac.png
 
 ## Get and Prepare Files
-1. Download Unarchiver. We'll use it to extract the ZIP file **and** the .exe file that contains the theme (note: the default Mac utility for zip files doesn't work for this)
+1. Download [Unarchiver](http://unarchiver.c3.cx/unarchiver). We'll use it to extract the ZIP file **and** the .exe file that contains the theme (note: the default Mac utility for zip files doesn't work for this)
 2. Download a dark theme for Inkscape. I used [this one from iOVERD](http://ioverd.deviantart.com/art/Inkscape-0-91-dark-theme-547919927) on DeviantArt.
 3. Unzip the file with [Unarchiver](http://unarchiver.c3.cx/unarchiver) (right click, Open with..., Unarchiver).
-4. Unzip the dark theme's .exe file (either 32- or 64-bit) with Unarchiver (right click, Open with..., Unarchiver).
+4. Unzip the dark theme's .exe file (either 32- or 64-bit) with [Unarchiver](http://unarchiver.c3.cx/unarchiver) (right click, Open with..., Unarchiver).
 5. Navigate to Share/themes/Default. There will be a file named "gtkrc" there that we'll use to replace another file. Keep this window open for the following steps...
 
 ## Replace theme file
