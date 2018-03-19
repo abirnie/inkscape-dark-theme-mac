@@ -16,14 +16,14 @@ I searched high and low, forums big and small, and came up empty on this. Almost
 5. Navigate to Share/themes/Default. There will be a file named "gtkrc" there that we'll use to replace another file. Keep this window open for the following steps...
 
 ## Replace theme file
-4. In a different Finder window, go to your Applications folder, right click on Inkscape, select "Show Package Contents"
-5. Navigate to Contents/Resources/etc/gtk-2.0
-6. Replace the only file in that folder (named "gtkrc") with the file of the same name from step 5 above.
+6. In a different Finder window, go to your Applications folder, right click on Inkscape, select "Show Package Contents"
+7. Navigate to Contents/Resources/etc/gtk-2.0
+8. Replace the only file in that folder (named "gtkrc") with the file of the same name from step 5 above.
 
 ## Replace the icon.svg file (optional)
-7. Now navigate to Contents/Resources/share/inkscape/icons
-8. Replace the icons.svg file that is currently there with the icons.svg file from your new dark theme folder that you unzipped in step 5 above (found in share/icons)
-9. Start (or restart) Inkscape. Hopefully, yours looks like the screenshot from my setup above. 
+9. Now navigate to Contents/Resources/share/inkscape/icons
+10. Replace the icons.svg file that is currently there with the icons.svg file from your new dark theme folder that you unzipped in step 5 above (found in share/icons)
+11. Start (or restart) Inkscape. Hopefully, yours looks like the screenshot from my setup above. 
 
 
 NOTE: Inkscape actually comes with some alternative themes and you can use similar steps to implement them. The theme files can be found by viewing the applications package contents and navigating to Contents/Resources/share/themes.
